@@ -8,6 +8,8 @@
     struct Node *next;
  } Node;
 
+// kuytin
+
 typedef struct
 {
     Node *head;
