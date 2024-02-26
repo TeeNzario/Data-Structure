@@ -9,7 +9,7 @@
  } Node;
 
 // kuytin
-
+// auujee
 typedef struct
 {
     Node *head;
